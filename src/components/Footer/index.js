@@ -13,7 +13,7 @@ function Footer() {
     return (
         <div>
         
-            {show &&  <h3>login in</h3>}
+            {show &&  <h3>Clicked</h3>}
             
     
         
